@@ -1,1 +1,6 @@
-this is my 1st git repository
+this is my 1st git repositorychanging the existing flie
+
+cat demp.txt
+ls
+changing the existing file
+history
